@@ -1,5 +1,12 @@
 
-# shaunsingh/nord.nvim
+# dgrco/nord.nvim
+A fork of the amazing shaunsingh/nord.nvim theme with some tweaks to better suit my taste.
+
+These tweaks include darkening some colors for better contrast.
+
+![image](https://github.com/user-attachments/assets/053c1ab7-d12b-4b0c-93a6-d638392e5eba)
+
+**Anything below this text is from the original README (most of it is relevant, and you can compare screenshots!)**
 
 ## Neovim theme based off of the [Nord Color Palette.](https://www.nordtheme.com/docs/colors-and-palettes)
 
