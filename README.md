@@ -2,9 +2,9 @@
 # dgrco/nord.nvim
 A fork of the amazing shaunsingh/nord.nvim theme with some tweaks to better suit my taste.
 
-These tweaks include darkening some colors for better contrast.
+These tweaks include darkening some background colors and brightening some foreground colors for better contrast.
 
-![image](https://github.com/user-attachments/assets/43a787a6-6e24-4268-93c1-2501175ae3ce)
+![image](https://github.com/user-attachments/assets/7badc593-2067-4832-ad26-1db3d5410dbe)
 
 **Anything below this text is from the original README (most of it is relevant, and you can compare screenshots!)**
 
